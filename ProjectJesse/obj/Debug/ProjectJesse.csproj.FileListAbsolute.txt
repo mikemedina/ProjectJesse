@@ -1,0 +1,9 @@
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\bin\Debug\ProjectJesse.exe.config
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\bin\Debug\ProjectJesse.exe
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\bin\Debug\ProjectJesse.pdb
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\obj\Debug\ProjectJesse.csprojResolveAssemblyReference.cache
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\obj\Debug\ProjectJesse.Properties.Resources.resources
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\obj\Debug\ProjectJesse.csproj.GenerateResource.Cache
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\obj\Debug\ProjectJesse.exe
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\obj\Debug\ProjectJesse.pdb
+c:\users\mike\desktop\ProjectJesse\ProjectJesse\obj\Debug\ProjectJesse.frmMain.resources
